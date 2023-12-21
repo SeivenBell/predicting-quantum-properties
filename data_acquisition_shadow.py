@@ -84,7 +84,7 @@ def derandomized_classical_shadow(all_observables, num_of_measurements_per_obser
         num_of_matches_needed_in_this_round = [len(P) for P in all_observables]
         single_round_measurement = []
 
-        shift = sum_log_value / sum_cnt if sum_cnt > 0 else 0;
+        shift = sum_log_value / sum_cnt if sum_cnt > 0 else 0
         sum_log_value = 0.0
         sum_cnt = 0
 

@@ -1,5 +1,6 @@
 # Predicting Properties of Quantum Many-Body Systems
 
+program is working notes are taken
 This open source implementation allows the prediction of many properties: few-body observables, two-point correlation functions, subsystem entanglement entropy, from very few measurements.
 
 We require `g++` and `python` version 3.
